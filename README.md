@@ -20,7 +20,7 @@ I have 3+ years of experience working on real production applications, mainly wi
 
 ### KaKtu.al — AI-Powered Real Estate Platform
 
-I contributed to the frontend of <a href="https://kaktu.al/en" target="_blank" rel="noopener noreferrer">KaKtu.al</a>, an AI-powered real estate platform for Albania focused on property search, listings, market insights, and real estate discovery.
+I contributed to the frontend of [KaKtu.al](https://kaktu.al/en), an AI-powered real estate platform for Albania focused on property search, listings, market insights, and real estate discovery.
 
 KaKtu helps users search for properties, explore listings, use AI-powered search, receive personalized property suggestions, and access real estate market-related pages. It is a real production platform with public-facing features for property buyers, renters, agents, and agencies.
 
@@ -39,13 +39,13 @@ My work focused on frontend implementation and improving user-facing product fea
 
 The source code is private and owned by the company, so it is not available on my public GitHub profile.
 
-Live platform: <a href="https://kaktu.al/en" target="_blank" rel="noopener noreferrer">https://kaktu.al/en</a>
+Live platform: https://kaktu.al/en
 
 ## Featured Public Projects
 
 ### Pasticeri Lika
 
-A production-grade website for <a href="https://pasticerilika.al" target="_blank" rel="noopener noreferrer">Pasticeri Lika</a>, a family-owned Albanian pastry brand in Tirana.
+A production-grade website for [Pasticeri Lika](https://pasticerilika.al), a family-owned Albanian pastry brand in Tirana.
 
 This project turns a traditional pastry business into a modern digital storefront with bilingual content, a searchable product catalog, delivery ordering, contact workflows, and strong technical SEO foundations.
 
@@ -82,7 +82,7 @@ This project turns a traditional pastry business into a modern digital storefron
 * Creating strong SEO foundations with metadata, structured data, sitemap, robots rules, and localized alternates
 * Keeping the project maintainable with type checking, linting, formatting, and production build validation
 
-Live: <a href="https://pasticerilika.al" target="_blank" rel="noopener noreferrer">https://pasticerilika.al</a>
+Live: https://pasticerilika.al
 Source code: Private repository because this is a real business/client project
 
 ### Alex Electric
@@ -95,8 +95,8 @@ A modern business website for electrical services in Albania, built with Next.js
 * Created a real business website with clear calls-to-action for phone and WhatsApp contact
 * Structured content around local service searches in Albania
 
-Live: <a href="https://alex-electric.com" target="_blank" rel="noopener noreferrer">https://alex-electric.com</a>
-Code: <a href="https://github.com/arditlleshi/alex-electric" target="_blank" rel="noopener noreferrer">https://github.com/arditlleshi/alex-electric</a>
+Live: https://alex-electric.com
+Code: https://github.com/arditlleshi/alex-electric
 
 ### Banking Mini System
 
@@ -108,7 +108,7 @@ A full-stack banking demo application with an Angular frontend and Spring Boot b
 * Demonstrates full-stack structure, API communication, and banking-domain logic
 * Connects well with my previous professional background in banking and finance
 
-Code: <a href="https://github.com/arditlleshi/banking-mini-system" target="_blank" rel="noopener noreferrer">https://github.com/arditlleshi/banking-mini-system</a>
+Code: https://github.com/arditlleshi/banking-mini-system
 
 ## Currently focused on
 
@@ -122,6 +122,6 @@ Code: <a href="https://github.com/arditlleshi/banking-mini-system" target="_blan
 
 ## Connect with me
 
-* LinkedIn: <a href="https://www.linkedin.com/in/arditlleshi" target="_blank" rel="noopener noreferrer">https://www.linkedin.com/in/arditlleshi</a>
-* GitHub: <a href="https://github.com/arditlleshi" target="_blank" rel="noopener noreferrer">https://github.com/arditlleshi</a>
-* Email: <a href="mailto:arditlleshi@hotmail.com">[arditlleshi@hotmail.com](mailto:arditlleshi@hotmail.com)</a>
+* LinkedIn: https://www.linkedin.com/in/arditlleshi
+* GitHub: https://github.com/arditlleshi
+* Email: [arditlleshi@hotmail.com](mailto:arditlleshi@hotmail.com)
