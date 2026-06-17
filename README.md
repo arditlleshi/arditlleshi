@@ -85,19 +85,6 @@ This project turns a traditional pastry business into a modern digital storefron
 Live: https://pasticerilika.al
 Source code: Private repository because this is a real business/client project
 
-### Alex Electric
-
-A modern business website for electrical services in Albania, built with Next.js, TypeScript, Tailwind CSS, and SEO-focused content structure.
-
-* Built responsive pages for services, locations, and contact flows
-* Added SEO structure, sitemap generation, metadata, and localized content
-* Focused on performance, clean UI, and conversion-friendly layout
-* Created a real business website with clear calls-to-action for phone and WhatsApp contact
-* Structured content around local service searches in Albania
-
-Live: https://alex-electric.com
-Code: https://github.com/arditlleshi/alex-electric
-
 ### Banking Mini System
 
 A full-stack banking demo application with an Angular frontend and Spring Boot backend.
